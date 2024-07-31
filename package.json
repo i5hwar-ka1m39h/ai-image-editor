@@ -22,6 +22,7 @@
     "react": "^18",
     "react-dom": "^18",
     "stripe": "^16.5.0",
+    "svix": "^1.26.0",
     "tailwind-merge": "^2.4.0",
     "tailwindcss-animate": "^1.0.7"
   },
